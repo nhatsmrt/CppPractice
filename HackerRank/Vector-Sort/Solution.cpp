@@ -7,7 +7,8 @@ using namespace std;
 
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */     vector<int> data;
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+    vector<int> data;
     int len, datum;
     cin >> len;
 
